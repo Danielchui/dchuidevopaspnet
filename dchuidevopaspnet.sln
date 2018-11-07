@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dchuidevopaspnet", "dchuidevopaspnet\dchuidevopaspnet.csproj", "{6A155069-2388-43AE-BE25-AB369A11CCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dchuidevopaspnet.Tests", "dchuidevopaspnet.Tests\dchuidevopaspnet.Tests.csproj", "{C790531D-3200-425F-B3E2-FC820610771C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A155069-2388-43AE-BE25-AB369A11CCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A155069-2388-43AE-BE25-AB369A11CCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A155069-2388-43AE-BE25-AB369A11CCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A155069-2388-43AE-BE25-AB369A11CCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C790531D-3200-425F-B3E2-FC820610771C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C790531D-3200-425F-B3E2-FC820610771C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C790531D-3200-425F-B3E2-FC820610771C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C790531D-3200-425F-B3E2-FC820610771C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC419346-7103-4A01-928E-5CD639977CF6}
+	EndGlobalSection
+EndGlobal
